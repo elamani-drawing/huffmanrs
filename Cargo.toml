@@ -1,0 +1,13 @@
+[package]
+name = "huffmanrs"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Huffmanrs est une bibliothèque Rust permettant d'encoder et de décoder du texte en utilisant le codage de Huffman."
+repository = "https://github.com/elamani-drawing/huffmanrs"
+documentation = "https://docs.rs/huffmanrs/latest/huffman/"
+homepage = "https://github.com/elamani-drawing/huffmanrs"
+keywords = ["rust", "huffman", "encoding", "decoding"]
+categories = ["cryptography", "multimedia::encoding", "compression"]
+
+[dependencies]
